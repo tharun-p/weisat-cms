@@ -38,13 +38,3 @@ Crypto’s wild—volatility’s a rollercoaster, scams lurk, and mining’s got
 
 ## 9. Moon or Bust
 Crypto’s not just needed—it’s inevitable. It’s the degen antidote to a broken system, giving power to the HODLers, the dreamers, the rebels. Financial inclusion, decentralized vibes, and moonshot innovation make it the future. So stack those sats, ape into that alt, and join the revolution. Crypto’s our ticket to a world where we’re all Chads, not NPCs.
-
-
-
-
-
-
-
-
-
-
