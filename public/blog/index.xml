@@ -1,16 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WeiSat – </title>
-    <link>https://blog.weisat.io/</link>
+    <link>https://blog.weisat.io/blog/</link>
     <description>Recent content on WeiSat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 19:23:50 +0530</lastBuildDate>
     
-	  <atom:link href="https://blog.weisat.io/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://blog.weisat.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
+        
       
     
     
