@@ -1,3 +1,44 @@
-baseURL: https://example.org/
+baseURL: https://blog.weisat.io/
 languageCode: en-us
-title: My New Hugo Site
+title: WeiSat
+author: "Tharun Prabhakaran"
+theme: hextra
+
+
+params:
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
