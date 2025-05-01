@@ -18,6 +18,7 @@ We cut through the hype to unpack its groundbreaking tech, real-world impact, an
 
 We’ll dive deep. How to secure your crypto wealth—step by step, no gatekeeping. Join us, question everything, and step into the financial revolution that’s rewriting the rules.
 
-<div class="hx:mb-6 hx:mt-20">
-{{< hextra/hero-button text="Read More" link="blog" >}}
+
+<div class="hx:mb-6 hx:mt-12">
+{{< hextra/hero-button text="Read more" link="blog" >}}
 </div>
