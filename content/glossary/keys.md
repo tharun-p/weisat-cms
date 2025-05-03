@@ -11,10 +11,10 @@ In cryptocurrency, keys refer to cryptographic codes that are fundamental to own
 
 ### Private Key
 A secret code that allows you to access, control, and spend your cryptocurrency. Whoever has the private key has full control over the assets. 
-Private keys are mean to be kept secrete, these are like password for you bank account. Any transaction you make should be signed by your private key. 
+Private keys are meant to be kept secrete, these are like password for your bank account. Any transaction you make should be signed by your private key. 
 
 > [!CAUTION]
-> If your Private Key is lost, you loose your all your crypto permanent, there is no rescue. Anyone claiming they can rescue your private key is a scammer. 
+> If your Private Key is lost, you loose all your crypto permanently, there is no rescue. Anyone claiming they can recover your private key is a scammer except the company of your hardware wallet. 
 
 ### Public Key
 It is used to derive an wallet address, to which others can use to send you crypto.

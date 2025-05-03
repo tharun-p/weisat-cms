@@ -2,7 +2,8 @@
 date: '2025-05-03T17:55:02+05:30'
 draft: false
 title: 'HODL'
-weight: 3
+weight: 3,
+url: glossary/hodl-
 ---
 
 HODL is a slang term in the cryptocurrency community that originated from a misspelled word "hold." It refers to the strategy of holding onto cryptocurrencies for a long period of time instead of selling them, even during high market volatility. It embodies a belief in the long-term value and potential of a cryptocurrency.
