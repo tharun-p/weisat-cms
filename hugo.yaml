@@ -12,6 +12,9 @@ params:
     description: "A blog about technology, programming, and more."
     keywords: "blog, technology, programming"
     favicon: '/favicon.ico'
+  footer:
+    copyrightYear: 2025
+    custom: "Copyright 2025 weisat. All rights reserved."
 
 menu:
   main:
@@ -25,11 +28,6 @@ menu:
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: github
 
 markup:
   highlight:

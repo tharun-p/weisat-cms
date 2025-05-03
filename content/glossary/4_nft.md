@@ -14,7 +14,7 @@ Think of an NFT like a rare Pokémon card. Even if someone takes a picture of yo
 Super Simple Analogy - Imagine buying a signed poster from your favorite singer. The signature makes it unique, and a digital “certificate” (the blockchain) proves it’s the real deal. That’s what an NFT is!
 {{< /callout >}}
 
-NFT can be completely digital created product/content(Digital art) or Real world asset (RWD, Plot of land) created as token/NFT in blockchain. 
+You can have NFT for completely digital created product/content(Digital art) or Real world asset (RWD, Plot of land) created as token/NFT in blockchain. 
 
 As NFTs are unique digital assets on a blockchain, there are some standard defined in various blockchains like standar ERC-721 in Ethereum, to have a standardized approach of how to create (mint), transfer the NFT, or interact with it, so anyone in the world can interact with them.
 
