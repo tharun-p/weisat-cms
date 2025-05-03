@@ -16,9 +16,18 @@ It’s a movement for anyone who dares to rethink what’s possible. Ignoring it
 
 We cut through the hype to unpack its groundbreaking tech, real-world impact, and why it matters to you. 
 
-We’ll dive deep. How to secure your crypto wealth—step by step, no gatekeeping. Join us, question everything, and step into the financial revolution that’s rewriting the rules.
-
+We’ll dive deep. How to secure your crypto wealth step by step, no gatekeeper. Join us, question everything, and step into the financial revolution that’s rewriting the rules.
 
 <div class="hx:mb-6 hx:mt-12">
 {{< hextra/hero-button text="Read more" link="blog" >}}
 </div>
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Why Crypto ?"
+    subtitle="Simple and easy to use, yet powerful and feature-rich."
+    class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+  
+{{< /hextra/feature-grid >}}

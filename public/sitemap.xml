@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.weisat.io/glossary/wallet/</loc>
+    <lastmod>2025-05-03T17:19:24+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.weisat.io/glossary/keys/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.weisat.io/glossary/hold/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.weisat.io/glossary/</loc>
+    <lastmod>2025-05-03T17:19:24+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.weisat.io/</loc>
     <lastmod>2025-05-01T19:23:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.weisat.io/blog/</loc>
     <lastmod>2025-05-01T19:23:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/whycrypto/</loc>
+    <loc>https://blog.weisat.io/blog/whycrypto/</loc>
     <lastmod>2025-05-01T19:23:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.weisat.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.weisat.io/tags/</loc>
   </url>
 </urlset>

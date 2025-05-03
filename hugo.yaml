@@ -14,8 +14,8 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: About
-      pageRef: /about
+    - name: Glossary
+      pageRef: /glossary
       weight: 3
     - name: Search
       weight: 4
