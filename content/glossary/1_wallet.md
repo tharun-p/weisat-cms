@@ -3,12 +3,15 @@ date: '2025-05-03T17:19:24+05:30'
 draft: false
 title: 'Wallet'
 weight: 1
+url: /glossary/wallet
+
 ---
 
 A crypto wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. While it doesn’t actually "store" the coins, it stores the private and public keys required to access and manage your crypto holdings on the blockchain.
 
 There are various types of wallets based on their connection to the internet and level of security. The major categories are Hot, Cold, Frozen, and Deep Cold wallets.
 
+Every wallet will create cryptographic keys for you and generate address for you, which will be your identifier in the blockchain (Similar to account number in bank).
 
 ## Types of Wallets
 
