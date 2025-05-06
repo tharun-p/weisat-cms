@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeiSat – Web3</title>
+    <link>http://localhost:1313/tags/web3/</link>
+    <description>Recent content in Web3 on WeiSat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>WEISAT</copyright>
+    <lastBuildDate>Sat, 03 May 2025 17:19:24 +0530</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/web3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Wallet</title>
+      <link>http://localhost:1313/glossary/wallet/</link>
+      <pubDate>Sat, 03 May 2025 17:19:24 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/wallet/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A crypto wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. While it doesn’t actually &amp;ldquo;store&amp;rdquo; the coins, it stores the private and public keys required to access and manage your crypto holdings on the blockchain.&lt;/p&gt;
+&lt;p&gt;There are various types of wallets based on their connection to the internet and level of security. The major categories are Hot, Cold, Frozen, and Deep Cold wallets.&lt;/p&gt;
+&lt;p&gt;Every wallet will create cryptographic keys for you and generate address for you, which will be your identifier in the blockchain (Similar to account number in bank).&lt;/p&gt;
+&lt;h2&gt;Types of Wallets&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;types-of-wallets&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#types-of-wallets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. Hot Wallet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-hot-wallet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-hot-wallet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A Hot Wallet is connected to the internet and is designed for quick and frequent access to crypto assets. These are typically used for daily transactions.&lt;/p&gt;
+&lt;h3&gt;2. Cold Wallet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-cold-wallet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-cold-wallet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A Cold Wallet is offline and not connected to the internet, making it much more secure. It’s ideal for long-term storage.&lt;/p&gt;
+&lt;h3&gt;3. Frozen Wallet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-frozen-wallet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-frozen-wallet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A Frozen Wallet is a variation of a cold wallet that requires manual authorization or physical access to enable transactions. It’s typically used in custodial or institutional-grade setups for high-security needs.&lt;/p&gt;
+&lt;h3&gt;4. Deep Cold Wallet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-deep-cold-wallet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-deep-cold-wallet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A Deep Cold Wallet is a wallet that is completely isolated from any network and often stored in secure physical locations, such as safes or vaults. These are used for archival storage and rarely, if ever, accessed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

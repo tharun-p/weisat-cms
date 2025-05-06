@@ -4,7 +4,10 @@ draft: false
 title: 'Wallet'
 weight: 1
 url: /glossary/wallet
-
+author: 'Tharun'
+tags: ["wallet","web3", "metamask", "keypair", "bitcoin"]
+highlight_name: true
+description: "Wallet in web3"
 ---
 
 A crypto wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. While it doesn’t actually "store" the coins, it stores the private and public keys required to access and manage your crypto holdings on the blockchain.

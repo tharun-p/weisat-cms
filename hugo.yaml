@@ -1,8 +1,9 @@
 baseURL: https://blog.weisat.io/
 languageCode: en-us
-title: weisat
 author: "Tharun Prabhakaran"
 theme: hextra
+copyright: "WEISAT"
+title: "WeiSat"
 
 params:
   page:
@@ -43,3 +44,5 @@ markup:
         enable: true
 
 enableInlineShortcodes: true
+
+

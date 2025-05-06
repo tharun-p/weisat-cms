@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>weisat – </title>
+    <title>WeiSat – </title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content on weisat</description>
+    <description>Recent content on WeiSat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>WEISAT</copyright>
     <lastBuildDate>Thu, 01 May 2025 19:23:50 +0530</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />

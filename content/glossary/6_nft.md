@@ -2,7 +2,7 @@
 date: '2025-05-03T17:55:02+05:30'
 draft: false
 title: 'NFT'
-weight: 4
+weight: 6
 url: /glossary/nft
 ---
 

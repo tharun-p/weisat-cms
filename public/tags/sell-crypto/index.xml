@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeiSat – Sell Crypto</title>
+    <link>http://localhost:1313/tags/sell-crypto/</link>
+    <description>Recent content in Sell Crypto on WeiSat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>WEISAT</copyright>
+    <lastBuildDate>Wed, 07 May 2025 02:20:11 +0530</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/sell-crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Crypto Exchange</title>
+      <link>http://localhost:1313/glossary/cryptoexchange/</link>
+      <pubDate>Wed, 07 May 2025 02:20:11 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/cryptoexchange/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A crypto exchange is a website where users can buy, sell, or trade cryptocurrencies like Bitcoin, Ethereum, or others. It acts as a digital marketplace, connecting buyers and sellers, similar to a stock exchange but for crypto.&lt;/p&gt;
+&lt;p&gt;Users can give fiat currency like  $ dollar or € euro and buy cryptocurrency. Crypto exchanges will match these buyer with other people who are trying to sell cryptocurrency.&lt;/p&gt;
+&lt;p&gt;Some crypto exchanges will collaborate with liquidity provided (external firms who provide liquidity in high volume to buy or sell cryptocurrency).&lt;/p&gt;
+&lt;h2&gt;There are two type crypto exchanges&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;there-are-two-type-crypto-exchanges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#there-are-two-type-crypto-exchanges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. Centralised Exchanges (CEX)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-centralised-exchanges-cex&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-centralised-exchanges-cex&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Managed by a company, they hold your crypto on your behalf, they hold your keys which holds your currency often pose risk of hacks, internal security breach, data leaks and God Freezing.&lt;/p&gt;
+&lt;p&gt;Example - &lt;a href=&#34;https://www.coinbase.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coinbase&lt;/a&gt;, &lt;a href=&#34;https://www.binance.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binance&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;2. Decentralised Exchanges (DEX)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-decentralised-exchanges-dex&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-decentralised-exchanges-dex&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;These are exchanges where you can trade cryptocurrencies directly with others without a middleman like a company, instead governed and controlled by smart contracts(piece of code) that runs in blockchain (No one can modify the smart contract in blockchain), they have logic on matching buyers and sellers.&lt;/p&gt;
+&lt;p&gt;Example - &lt;a href=&#34;https://app.uniswap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniSwap&lt;/a&gt;, &lt;a href=&#34;https://www.dydx.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dYdX&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
