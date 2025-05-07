@@ -1,0 +1,124 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeiSat – Publickey</title>
+    <link>http://localhost:1313/tags/publickey/</link>
+    <description>Recent content in Publickey on WeiSat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>WEISAT</copyright>
+    <lastBuildDate>Thu, 08 May 2025 01:59:16 +0530</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/publickey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Keys</title>
+      <link>http://localhost:1313/glossary/keys/</link>
+      <pubDate>Sat, 03 May 2025 17:55:02 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/keys/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In cryptocurrency, keys refer to cryptographic codes that are fundamental to owning and controlling digital assets on a blockchain.&lt;/p&gt;
+&lt;h2&gt;Types of keys&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;types-of-keys&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#types-of-keys&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Private Key&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;private-key&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#private-key&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A secret code that allows you to access, control, and spend your cryptocurrency. Whoever has the private key has full control over the assets.
+Private keys are meant to be kept secrete, these are like password for your bank account. Any transaction you make should be signed by your private key.&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;⚠️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;If your Private Key is lost, you loose all your crypto permanently, there is no rescue. Anyone claiming they can recover your private key is a scammer except the company of your hardware wallet.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Public Key&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;public-key&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#public-key&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;It is used to derive an wallet address, to which others can use to send you crypto.
+Public keys are like account number, you can receive funds. Public keys are derived from private keys using complex cryptographic math.&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;&amp;ldquo;Not your keys, Not your coins&amp;rdquo;&lt;/strong&gt;
+If you don&amp;rsquo;t hold the keys to your wallet, your wallets can be hacked or drained anytime. Do not trust the centralized crypto exchanges or holding company.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Address</title>
+      <link>http://localhost:1313/glossary/address/</link>
+      <pubDate>Sat, 03 May 2025 17:55:02 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/address/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Address is a unique string of letters and numbers that acts like a digital mailbox or bank account number on a blockchain. It’s where you send, receive, or store cryptocurrencies (like Bitcoin or Ethereum) or other digital assets, such as NFTs. Think of it as your personal address in the blockchain world—others can send you crypto or NFTs to this address, and you can send assets from it.&lt;/p&gt;
+&lt;p&gt;For example, a Bitcoin address might look like this: &lt;code&gt;1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa&lt;/code&gt;. An Ethereum address might look like: &lt;code&gt;0x742d35Cc6634C0532925a3b844Bc454e4438f44e&lt;/code&gt;. Each address is tied to a specific blockchain and generated using cryptography, ensuring it’s secure and unique.&lt;/p&gt;
+&lt;p&gt;Address is typically derived from a private-public key pair using cryptographic algorithms. You take the Public key and process it with fancy cryptographic algorithm, you will get Address.&lt;/p&gt;
+&lt;p&gt;When you are transferring crypto or other crypto assets like NFT to others, single typography of their address can send your funds to some random address and it might be lost forever.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/glossary/blockchain/</link>
+      <pubDate>Thu, 08 May 2025 01:59:16 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/blockchain/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In a traditional system, a centralized database—controlled by a single entity like a bank, company, or government—stores critical user information, such as account balances. This central authority has full control, meaning it can manipulate data, freeze accounts, or even erase a user&amp;rsquo;s existence from the system at its discretion. This vulnerability stems from the system&amp;rsquo;s reliance on a single point of control.&lt;/p&gt;
+&lt;h2&gt;The Blockchain Difference&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-blockchain-difference&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-blockchain-difference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Blockchain re-imagines this model by distributing the same database across thousands of computers, known as nodes, operated by individuals or entities worldwide. Each node maintains an identical copy of the database, and sophisticated algorithms(consensus mechanisms) ensure that all copies remain synchronized at all times. To alter a user&amp;rsquo;s account balance or remove them from the system, a malicious actor would need to manipulate the majority of these nodes simultaneously—an extraordinarily difficult, if not impossible. This makes blockchain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Decentralized: No single entity controls the system.&lt;/li&gt;
+&lt;li&gt;Tamper-proof: Data integrity is maintained through cryptographic security.&lt;/li&gt;
+&lt;li&gt;Immutable: Once recorded, transactions are nearly impossible to reverse or alter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Sovereign Identity in Blockchain&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sovereign-identity-in-blockchain&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sovereign-identity-in-blockchain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In traditional systems, your identity is often tied to an account number or username issued by a centralized authority, such as a bank or government. Blockchain eliminates this dependency. Your identity is represented by a cryptographic key pair: a public address and a private key. You generate these yourself using cryptographic algorithms, granting you full control over your identity. This sovereign identity allows you to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create your address independently, without intermediaries.&lt;/li&gt;
+&lt;li&gt;Generate multiple addresses for different purposes, enhancing privacy and flexibility.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;How Transactions Work in Blockchain&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-transactions-work-in-blockchain&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-transactions-work-in-blockchain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let’s explore how data is updated in a blockchain using a practical example. Suppose you want to send 10 ETH (a cryptocurrency) to your friend, Bob. Here’s how it works:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Identify Bob’s Address: You obtain Bob’s public address, which serves as his identity on the blockchain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a Transaction: You compose a message stating, “Transfer 10 ETH from my address to Bob’s address.”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sign the Transaction: Using your private key, you cryptographically sign the message to prove it’s from you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Broadcast the Transaction: The signed transaction is sent to the blockchain network, reaching thousands of nodes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Validation and Update: Nodes verify the transaction’s authenticity (ensuring you have sufficient funds and the signature is valid). If approved, the network updates the database: your balance decreases by 10 ETH, and Bob’s increases by 10 ETH.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This process, known as a transaction, is transparent, secure, and recorded permanently on the blockchain.&lt;/p&gt;
+&lt;h2&gt;Why Blockchain Matters&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-blockchain-matters&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-blockchain-matters&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Blockchain’s decentralized architecture and cryptographic foundation offer unparalleled security and user autonomy. By removing reliance on centralized authorities, it empowers individuals with control over their data and identity. Whether for financial transactions, or meme coins blockchain is reshaping world by fostering trust, transparency, and resilience.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

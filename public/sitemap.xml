@@ -17,7 +17,34 @@
     <loc>http://localhost:1313/glossary/nft/</loc>
     <lastmod>2025-05-03T17:55:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glossary/7_blockchain/</loc>
+    <loc>http://localhost:1313/glossary/blockchain/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cryptography/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/decentralized/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/keypair/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privatekey/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/publickey/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wallet/</loc>
+    <lastmod>2025-05-08T01:59:16+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web3/</loc>
     <lastmod>2025-05-08T01:59:16+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/binance/</loc>
@@ -38,10 +65,49 @@
     <loc>http://localhost:1313/tags/sell-crypto/</loc>
     <lastmod>2025-05-07T02:20:11+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-07T02:20:11+05:30</lastmod>
+    <loc>http://localhost:1313/tags/address/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artist/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/degen/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dex/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecdsa/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/erc-721/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hodl/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/glossary/hodl/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/metamask/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/moon/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nft/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/opensea/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/panthom/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rarible/</loc>
+    <lastmod>2025-05-03T17:55:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/solana/</loc>
     <lastmod>2025-05-03T17:55:02+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/glossary/</loc>
@@ -50,16 +116,10 @@
     <loc>http://localhost:1313/tags/bitcoin/</loc>
     <lastmod>2025-05-03T17:19:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/keypair/</loc>
+    <loc>http://localhost:1313/tags/ethereum/</loc>
     <lastmod>2025-05-03T17:19:24+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/metamask/</loc>
-    <lastmod>2025-05-03T17:19:24+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wallet/</loc>
-    <lastmod>2025-05-03T17:19:24+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/web3/</loc>
+    <loc>http://localhost:1313/tags/glossary/</loc>
     <lastmod>2025-05-03T17:19:24+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>

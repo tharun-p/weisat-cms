@@ -39,5 +39,47 @@
       </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/glossary/</link>
+      <pubDate>Sat, 03 May 2025 17:19:24 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Crypto Glossary&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;crypto-glossary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#crypto-glossary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Collection of essential terms and concepts that every crypto enthusiast, investor, or builder should know.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re just starting your journey into blockchain, DeFi, NFTs, and Web3, or you&amp;rsquo;re a seasoned trader looking to brush up on technical jargon, this glossary is designed to help you navigate the fast-evolving world of cryptocurrency with clarity and confidence.&lt;/p&gt;
+&lt;p&gt;From popular slang like HODL and DeFi to critical technical terms like private keys, smart contracts, and cold wallets, you&amp;rsquo;ll find easy-to-understand definitions, real-world examples, and context-rich explanations to level up your crypto literacy.&lt;/p&gt;
+&lt;p&gt;Bookmark this page — the crypto space moves fast, and this glossary will be your go-to reference as you explore the decentralized future.&lt;/p&gt;
+&lt;h2&gt;Start Exploring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;start-exploring&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#start-exploring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 4;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/glossary/wallet&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Wallet&lt;/span&gt;&lt;div class=&#34;hextra-badge hextra-card-tag&#34;&gt;
+    &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;Beginner&lt;/div&gt;
+  &lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/glossary/hodl&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;HODL&lt;/span&gt;&lt;div class=&#34;hextra-badge hextra-card-tag&#34;&gt;
+    &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;Beginner&lt;/div&gt;
+  &lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/glossary/keys&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Keys&lt;/span&gt;&lt;div class=&#34;hextra-badge hextra-card-tag&#34;&gt;
+    &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;Beginner&lt;/div&gt;
+  &lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/glossary/nft&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;NFT&lt;/span&gt;&lt;div class=&#34;hextra-badge hextra-card-tag&#34;&gt;
+    &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;Beginner&lt;/div&gt;
+  &lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

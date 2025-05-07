@@ -4,7 +4,7 @@ draft: false
 title: 'Address'
 weight: 5
 url: /glossary/address
-tags: ["wallet", "web3", "metamask", "keypair", "privatekey", "publickey", "ECDSA", "cryptography", "address]
+tags: ["wallet", "web3", "metamask", "keypair", "privatekey", "publickey", "ECDSA", "cryptography", "address"]
 highlight_name: true
 description: "explanation about cryptocurrency address, Identity in blockchain"
 ---
