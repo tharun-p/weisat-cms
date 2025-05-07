@@ -1,0 +1,12 @@
+
+
+
+
+In your traditional world, there will be a database, which will be managed by one entity like a bank/company/government. All the users information like, account balances will be stored in those database. But if the entity(bank/company/government) wants to manipulate your data or remove you from the whole system, they can do it, as they own the system. 
+
+But in Blockchain the same database which stores the account balances in present of 1000's of people computers(nodes), and it's made sure that any given time the data in the all these computer (nodes) database should be same. So if someone has to remove you from the system or alter you account balance, they need to convince all these 1000's of people who are running the node, which makes blockchain decentralized, tamer-proof and irreversible.
+
+In traditional system you would have an username/account-number or some other form of identifier to represent yourself, which is usually obtained from centralised agency like company/government, in blockchain you identify is just an cryptographic key called [Address](/glossary/address), you can create your identity (address) on your own-self by running the cryptographic algorithms, your identity is sovereign. To make it much better, you can create as many identities you need.
+
+### How do you update the data in blockchain ?
+Considering our above example of database with account balances, lets assume you are transferring funds to you friend `Bob`, Both will have your own address (identity), get the address of `Bob` and you will write a message alike saying `Move 10 ETH from my address to Bob address` and sign the message with an cryptographic key (Which you got during address creation) and send this to all the 1000's of computers (node) in the network. What you did just now is called as transactions in blockchain. If your transaction action is successful all the database will debit you account balance and credit Bob balance.
