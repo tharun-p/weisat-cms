@@ -4,6 +4,9 @@ draft: false
 title: 'Keys'
 weight: 2
 url: /glossary/keys
+tags: ["wallet", "web3", "metamask", "keypair", "privatekey", "publickey", "ECDSA", "cryptography"]
+highlight_name: true
+description: "Crypto keys, private key and public key explanation"
 ---
 
 In cryptocurrency, keys refer to cryptographic codes that are fundamental to owning and controlling digital assets on a blockchain. 

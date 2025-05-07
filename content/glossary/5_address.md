@@ -4,6 +4,9 @@ draft: false
 title: 'Address'
 weight: 5
 url: /glossary/address
+tags: ["wallet", "web3", "metamask", "keypair", "privatekey", "publickey", "ECDSA", "cryptography", "address]
+highlight_name: true
+description: "explanation about cryptocurrency address, Identity in blockchain"
 ---
 
 Address is a unique string of letters and numbers that acts like a digital mailbox or bank account number on a blockchain. It’s where you send, receive, or store cryptocurrencies (like Bitcoin or Ethereum) or other digital assets, such as NFTs. Think of it as your personal address in the blockchain world—others can send you crypto or NFTs to this address, and you can send assets from it.

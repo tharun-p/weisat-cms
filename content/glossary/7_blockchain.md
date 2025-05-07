@@ -4,6 +4,9 @@ draft: false
 title: 'Blockchain'
 weight: 7
 url: /glossary/blockchain
+tags: ["decentralized", "web3", "blockchain", "keypair", "privatekey", "publickey", "wallet", "cryptography"]
+highlight_name: true
+description: "Explanation of blockchain, what is it and how it works"
 ---
 In a traditional system, a centralized database—controlled by a single entity like a bank, company, or government—stores critical user information, such as account balances. This central authority has full control, meaning it can manipulate data, freeze accounts, or even erase a user's existence from the system at its discretion. This vulnerability stems from the system's reliance on a single point of control.
 

@@ -4,6 +4,9 @@ draft: false
 title: 'NFT'
 weight: 6
 url: /glossary/nft
+tags: ["wallet", "web3", "metamask", "keypair", "NFT", "rarible", "opensea", "ERC-721", "artist", "degen"]
+highlight_name: true
+description: "NFT-Non Fungible token explanation why artist need it"
 ---
 
 An NFT, or Non-Fungible Token, is a special kind of digital item you can own, like a collectible card, a piece of art, or a song, stored on a blockchain (a secure digital record). The word “non-fungible” means it’s one-of-a-kind—there’s only one original version, and you can’t swap it for another NFT like you can with money or candy bars.
