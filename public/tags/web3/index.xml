@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>WEISAT</copyright>
-    <lastBuildDate>Thu, 08 May 2025 01:59:16 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 12:00:59 +0530</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/web3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -169,6 +169,21 @@ If you don&amp;rsquo;t hold the keys to your wallet, your wallets can be hacked 
 &lt;p&gt;This process, known as a transaction, is transparent, secure, and recorded permanently on the blockchain.&lt;/p&gt;
 &lt;h2&gt;Why Blockchain Matters&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-blockchain-matters&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#why-blockchain-matters&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Blockchain’s decentralized architecture and cryptographic foundation offer unparalleled security and user autonomy. By removing reliance on centralized authorities, it empowers individuals with control over their data and identity. Whether for financial transactions, or meme coins blockchain is reshaping world by fostering trust, transparency, and resilience.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Smart Contracts</title>
+      <link>http://localhost:1313/glossary/smartcontract/</link>
+      <pubDate>Thu, 08 May 2025 12:00:59 +0530</pubDate>
+      
+      <guid>http://localhost:1313/glossary/smartcontract/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Smart contracts are piece of code that is present in the blockchain (everyone&amp;rsquo;s node) and users can interact with them using transactions.&lt;/p&gt;
+&lt;p&gt;Usually smart contracts will be used to store some data like balance of an user, with access control of who can update or modify the data that is stored in smart contract.&lt;/p&gt;
 
       </description>
     </item>
